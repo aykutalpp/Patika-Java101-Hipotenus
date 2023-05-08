@@ -17,7 +17,7 @@ public class Main {
         cevre = u*2;
         alan = Math.sqrt(u*(u-a)*(u-b)*(u-c));
 
-        System.out.print("c kenari uzunlugu = "+c);
+        System.out.println("c kenari uzunlugu = "+c);
         System.out.println("Ucgenin Cevresi = "+cevre);
         System.out.println("Ucgenin alani = "+alan);
 
